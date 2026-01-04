@@ -2,6 +2,6 @@ t.prefs_.set('color-palette-overrides', ["#585b70", "#eba0ac", "#a6e3a1", "#f9e2
 t.prefs_.set('foreground-color', "#cdd6f4");
 t.prefs_.set('background-color', "#1e1e2e");
 t.prefs_.set('cursor-color', "#f2cdcd");
-t.prefs_.set('background-image', 'url(https://raw.githubusercontent.com/CharlieMarcotte/blink-theme-catppuccin-high-sierra/main/background.jpg)');
+t.prefs_.set('background-image', 'url(https://raw.githubusercontent.com/CharlieMarcotte/blink-theme-catppuccin-high-sierra/main/background-v2.jpg)');
 t.prefs_.set('background-size', '100% 100%');
 t.prefs_.set('background-position', 'center');
